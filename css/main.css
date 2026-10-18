@@ -1,11 +1,12 @@
 body{ 
-    font-family: Helvetica, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-size: 18px;
+    font-weight: lighter;
 }
 
 body{ 
-    background-color: rgb(116, 180, 180)
+    background-color: rgb(163, 174, 135)
 }
 
 .site-title{
