@@ -6,5 +6,9 @@ body{
 
 .site-title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    accent-color: green
+    
+}
+
+.table1{ 
+    background-color: aquamarine;
 }
