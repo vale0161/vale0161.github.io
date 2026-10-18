@@ -23,9 +23,14 @@
     text-align: center;
     
 }
-.my-image{
-    box-shadow: 3px 3px 3px;
-    
+#my-image{
+    box-shadow: 5px 8px 5px;
+    color:rgb(255, 162, 178)
+
+}
+.i { 
+    box-shadow: 5px 8px 5px;
+    color: rgb(158, 189, 54)
 }
 .table1{ 
     float:right;
