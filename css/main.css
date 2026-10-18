@@ -16,11 +16,6 @@ body{
 
 .table1{ 
     background-color: rgb(129, 247, 207);
-    transition: 3s, 
+    opacity: 0.5;
 
-}
-
-.table1:hover{ 
-    fill:azure
-    transition: 3s;
 }
