@@ -3,13 +3,18 @@
     font-style: italic;
     font-size: 18px;
     font-weight: lighter;
-    
-}
+    margin: 20px;
+    background-color: rgb(253, 253, 252)
 
-#htmlB{ 
-    background-color: rgb(163, 174, 135)
 }
-
+#notes{ 
+    background-color: rgb(248, 245, 241);
+    margin: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: lighter;
+}
 .site-title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: lighter;
@@ -17,7 +22,7 @@
 }
 
 .table1{ 
-    background-color: rgb(74, 97, 24);
+    background-color: rgb(221, 234, 193);
     opacity: 0.8;
     float:right;
     border-color: rgb(245, 245, 241);
