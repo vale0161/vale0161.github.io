@@ -40,8 +40,9 @@
 
 }
 
-.table1:nth-child{
-    text-decoration: square;
+#b>dt{
+
+    background-color: aqua;
 }
 .navbar ol{
     list-style-type: none;
