@@ -37,6 +37,7 @@
     list-style-type: none;
     background-color: bisque;
     overflow: hidden;
+    padding: none;
 
 }
 .navbar a{ 
@@ -51,6 +52,4 @@
 }
 .navbar li{
     float: left;
-    border: 0.9em;
-    border-color: aliceblue;
 }
