@@ -3,6 +3,7 @@ body{
     font-style: italic;
     font-size: 18px;
     font-weight: lighter;
+    
 }
 
 body{ 
@@ -23,3 +24,8 @@ body{
     text-align: center;
 
 }
+
+#my-image { 
+    box-shadow:0,0;
+}
+
