@@ -1,4 +1,4 @@
-body{ 
+#htmlB{ 
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-size: 18px;
@@ -6,7 +6,7 @@ body{
     
 }
 
-body{ 
+#htmlB{ 
     background-color: rgb(163, 174, 135)
 }
 
@@ -25,7 +25,4 @@ body{
 
 }
 
-#my-image { 
-    box-shadow:0,0;
-}
 
