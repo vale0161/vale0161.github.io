@@ -19,10 +19,28 @@
 .table1{ 
     background-color: rgb(74, 97, 24);
     opacity: 0.8;
+    float:right;
     border-color: rgb(245, 245, 241);
     border-width: 0.2cm;
     text-align: center;
 
 }
+.navbar ol{
+    list-style-type: none;
+    background-color: bisque;
+    overflow: hidden;
 
-
+}
+.navbar a{ 
+    color: blue;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(156, 120, 77);
+}
+.navbar li{
+    float: left;
+}
