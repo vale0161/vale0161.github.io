@@ -15,9 +15,12 @@
     font-size: 18px;
     font-weight: lighter;
 }
-.site-title{
+.site-title,footer{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: lighter;
+    color: rgb(140, 85, 2);
+    background-color: bisque;
+    text-align: center;
     
 }
 
@@ -37,15 +40,17 @@
 
 }
 .navbar a{ 
-    color: blue;
+    color: rgb(255, 0, 225);
     text-decoration: none;
     padding: 15px;
     display: block;
     text-align: center;
 }
 .navbar a:hover{
-    background-color: rgb(156, 120, 77);
+    background-color: rgb(240, 198, 147);
 }
 .navbar li{
     float: left;
+    border: 0.9em;
+    border-color: aliceblue;
 }
