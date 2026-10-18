@@ -23,15 +23,20 @@
     text-align: center;
     
 }
-
+.my-image{
+    box-shadow: 3px 3px 3px;
+    
+}
 .table1{ 
-    background-color: rgb(221, 234, 193);
-    opacity: 0.8;
     float:right;
     border-color: rgb(245, 245, 241);
     border-width: 0.2cm;
     text-align: center;
 
+}
+
+.table1:nth-child{
+    text-decoration: square;
 }
 .navbar ol{
     list-style-type: none;
