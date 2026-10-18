@@ -33,11 +33,15 @@
     color: rgb(158, 189, 54)
 }
 .table1{ 
-    float:right;
-    border-color: rgb(245, 245, 241);
+    
+    border-color: rgb(103, 103, 6);
     border-width: 0.2cm;
     text-align: center;
 
+}
+th{
+    text-align: center;
+    padding: none;
 }
 
 #b>dt{
