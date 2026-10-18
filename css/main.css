@@ -65,6 +65,3 @@ th{
 .navbar a:hover{
     background-color: rgb(240, 198, 147);
 }
-.navbar li{
-    float: left;
-}
