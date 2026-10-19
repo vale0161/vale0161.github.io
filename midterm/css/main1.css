@@ -6,10 +6,13 @@ h1{
 
 
 }
-#mid{
+#mid {
     background-color: aquamarine;
 }
-.navbar ol{
+.navbar a{
     text-decoration: none;
+    display: block;
+    text-align: center;
+
 
 }
