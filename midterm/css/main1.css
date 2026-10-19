@@ -3,11 +3,9 @@ h1{
     text-align: center;
     list-style-type: none;
     color: white;
-
-
 }
 #mid {
-    background-color: aquamarine;
+    background-color:blue;
 }
 .navbar a{
     text-decoration: none;
