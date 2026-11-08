@@ -1,0 +1,63 @@
+h1{
+    font-family:" Gadget" , sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    color: white;
+    font-size: 80px;
+    position: 500rem;
+}
+body{
+    background-color:rgb(200, 225, 225);
+    font-family:" Gadget" , sans-serif;
+
+}
+#starfish{
+    width: 1400px;
+    height: 600px;
+    position:top-center;
+}
+
+.navbar {
+    display:inline-flexbox;
+    height: 20px;
+    position: center;
+    padding: 10px 20px;
+    margin: 10px 10px; 
+    text-decoration: none;
+    text-align: center;
+    font-size: 0px;
+    text-transform: uppercase;
+    color: black;
+}
+
+h2{
+    padding: 10px;
+    margin: 10px;
+    font-family:" Gadget" , sans-serif;
+    font-weight: regular;
+    color: black;
+    font-size: 40px;
+}
+.container{
+    width: 500px;
+   margin: 0px;
+    
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    float: left;
+}
+p{ 
+    font-family:" Gadget" , sans-serif;
+    font-weight: regular;
+    color: black;
+    font-size: 18px;
+}
+h3{
+    font-family:" Gadget" , sans-serif;
+    font-weight: regular;
+    color: black;
+    font-size: 30px;
+}
