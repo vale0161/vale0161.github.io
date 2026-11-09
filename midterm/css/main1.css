@@ -27,20 +27,15 @@ h2{
     font-family:" Gadget" , sans-serif;
     color: black;
     font-size: 40px;
+    overflow: hidden;
 
 }
 .navbar ol{
     list-style-type: none;
     background-color: rgb(200, 225, 225);
     padding: 0px;
-    margin: 0px;
-   overflow: scroll;
+  
 }
-
- .navbar li {
-    float: left;
-    
-} 
 
 .navbar a{
     color: black;
@@ -52,16 +47,11 @@ h2{
     text-transform: uppercase;
     
 }
+ .navbar li {
+    float: left;
+    
+} 
 
-
-/*h2{
-    padding: 10px;
-    margin: 10px;
-    font-family:" Gadget" , sans-serif;
-    color: black;
-    font-size: 40px;
-
-}*/
 .container{
     width: auto;
    margin: 0px;
