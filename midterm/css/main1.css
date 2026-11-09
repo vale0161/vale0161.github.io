@@ -34,7 +34,7 @@ h2{
     list-style-type: none;
     background-color: rgb(200, 225, 225);
     padding: 0px;
-  
+    margin: 0px;
 }
 
 .navbar a{
