@@ -31,9 +31,14 @@ body{
     overflow:hidden;
 }
 
-.navbar li{
-    float:left;
-}
+ .navbar li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+} 
+
 .navbar a{
     padding: 10px;
     margin: 10px;
