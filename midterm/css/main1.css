@@ -24,8 +24,8 @@ body{
 .navbar ol{
     list-style-type: none;
     background-color: rgb(200, 225, 225);
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
     overflow:hidden;
 }
 
@@ -35,12 +35,12 @@ body{
 
 .navbar a{
     color: black;
-    font-size: larger;
-    text-transform: uppercase;
-    padding: 14px;
     text-decoration: none;
+    font-size: larger;
+    padding: 14px;
     display: block;
     text-align: center;
+    text-transform: uppercase;
 }
 
 
