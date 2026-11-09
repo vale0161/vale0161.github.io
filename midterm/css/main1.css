@@ -17,15 +17,12 @@ body{
 #starfish{
     width: 1410px;
     height: 600px;
-    position:top-center;
     padding: 10px;
 }
 
 .navbar ol{
-    display: inline-flexbox;
     list-style-type: none;
     background-color: rgb(200, 225, 225);
-    font-family:" Gadget" , sans-serif;
     height: 80px;
     width: 180px;
     overflow:hidden;
@@ -43,7 +40,6 @@ body{
     padding: 10px;
     margin: 10px;
     font-family:" Gadget" , sans-serif;
-    font-weight: regular;
     color: black;
     font-size: larger;
     text-transform: uppercase;
@@ -57,7 +53,6 @@ h2{
     padding: 10px;
     margin: 10px;
     font-family:" Gadget" , sans-serif;
-    font-weight: regular;
     color: black;
     font-size: 40px;
 }
@@ -74,7 +69,6 @@ img{
 }
 p{ 
     font-family:" Gadget" , sans-serif;
-    font-weight: regular;
     color: black;
     font-size: 18px;
 }
@@ -82,13 +76,11 @@ h3{
     padding: 10px;
     margin: 10px;
     font-family:" Gadget" , sans-serif;
-    font-weight: regular;
     color: black;
     font-size: 30px;
 }
 footer{
     font-family:" Gadget" , sans-serif;
-    font-weight: regular;
     color: black;
     font-size: 18px;
     position: absolute;
