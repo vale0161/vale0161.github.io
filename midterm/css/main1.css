@@ -20,7 +20,7 @@ body{
     position:top-center;
 }
 
-button{
+.navbar{
     display: inline-flexbox;
     text-decoration: none;
     border: none;
